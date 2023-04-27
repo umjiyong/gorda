@@ -163,7 +163,19 @@
 <aside>
 👉 BE - CODE CONVENTION
 
+<aside>
+💡 기본적으로 [구글 스타일 가이드](https://google.github.io/styleguide/javaguide.html)를 따른다.
+
+1. 패키지이름: 모두 소문자를 사용한다.
+2. 클래스이름: UpperCamelCase를 따른다.
+3. 메소드이름: lowerCamelCase를 따른다.
+4. 변수이름:
+    - 변수이름은 가급적 의미를 가지도록 작성한다(int a, String s X)
+    - 상수는 UPPER_SNAKE_CASE를 사용한다.
+5. 브랜치는 하위 태스크별로 나눈다.
+6. 코드리뷰는 브랜치 병합 시 한다.
 </aside>
+
 <br><br><br><br>
 
 
