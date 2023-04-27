@@ -57,7 +57,7 @@
 <div id="3"> </div>
 
 ## 🛠 Architecture
-![image](/uploads/130e82d3f709b13d07521d1df2f362a2/image.png)
+![image](산출물/시스템구성도.JPG)
 <br><br><br><br>
 
 ![image.png](./image.png)
