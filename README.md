@@ -60,9 +60,6 @@
 ![image](산출물/시스템구성도.JPG)
 <br><br><br><br>
 
-![image.png](./image.png)
-
-
 ## 기획 배경
 
 1. 최종 사용처 및 목적 파악 불가
